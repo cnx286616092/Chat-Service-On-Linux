@@ -3,7 +3,6 @@
 
 #define WELCOME "The Nancy ChatServer is Begin!\n"
 #define BYEBYE	"The Nancy ChatServer is End  !\n"
-/*
 int main(void)
 {
 	printf(WELCOME);
@@ -13,4 +12,3 @@ int main(void)
 	return 0;
 }
 
-*/
